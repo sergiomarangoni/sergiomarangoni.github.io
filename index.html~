@@ -7,8 +7,8 @@
         <title>Sergio Marangoni</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="_css/bootstrap.css">
-        <link rel="stylesheet" href="_css/estilo.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/estilo.css">
     </head>
     
     
@@ -32,13 +32,13 @@
         </div>
             
         <div class="row corpo">
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <i class="fa fa-globe fa-5x" aria-hidden="true"></i>
                 <h1>Criação de Sites</h1>
                     <p> A publicidade mudou muito nos últimos anos, se antes ter sua presença on-line era um diferencial, atualmente isto é imprescindível para a divulgação de produtos e serviços.</p>    
                 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <i class="fa fa-cog fa-5x" aria-hidden="true"></i>
                 <h1>Otimização de Sites</h1>
                 <p>A <em>Otimização de sites para os mecanismos de Busca</em> ou <em>SEO</em> consiste numa serie de estratégias para otimização de sua página para a internet e é muito importante para que seu produto ou serviço seja encontrado pelos mecanismos de busca e para que você possa obter os melhores resultados com sua página. </p>
@@ -53,7 +53,7 @@
         <div class="row rodape">
             <div class="col-md-6">
                 <footer id="rodape">        
-                    <p><address>Contato: 11 982264243 e-mail: <a href="sergio.marangoni@gmail.com" target="_blank">sergio.marangoni@gmail.com</a></address></p>
+                    <p><address>Contato: 11 984861256 | e-mail: <a href="sergio.marangoni@gmail.com" target="_blank">sergio.marangoni@gmail.com</a></address></p>
                 </div>
             
            <div class="col-md-6">      
