@@ -1,0 +1,43 @@
+body{
+    background-image: url(../_imagens/cup-of-coffee-1280537_1280.jpg);
+    background-size: cover;
+}
+#cabecalho{
+    background-color: rgba(36,32,56,0.6);
+    position: relative;
+    padding: 120px;    
+    color: rgba(250,250,250,0.8);
+    text-align: left;
+}
+
+section#portfolio{
+    position: relative;
+    display: block;
+    padding: 2px 2px 2px 8px;
+    background-color: rgba(36,32,56,0.6);
+    text-align: left;
+    color: rgba(247, 236,235, 1);
+}
+
+#rodape p{
+    text-align: center;
+}
+
+.corpo{
+    color: #CAC4CE;
+}
+
+.rodape{
+    text-align: center;
+    position: relative;
+    padding: 2px 80px 2px 8px;
+    display: 
+    background-color: rgba(36,32,56,0.6);
+    color: #CAC4CE;
+}
+
+
+
+
+
+

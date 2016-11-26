@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8"/>
+        <title>Sergio Marangoni</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="_css/bootstrap.css">
+        <link rel="stylesheet" href="_css/estilo.css">
+    </head>
+    
+    
+    <!--Inicio da página de conteúdo-->
+    
+    <body>
+        <div class="container">
+            <div class="row">
+                <header id="cabecalho">
+                    <h1><a href="home"></a>Sergio Marangoni</h1>
+                </header>
+            </div>
+        <br />
+            
+        <div class="row">
+            <section id="portfolio">
+                <h1>Portfolio</h1>
+                    <p>Em Breve</p>
+                    
+            </section>
+        </div>
+            
+        <div class="row corpo">
+            <div class="col-md-4">
+                <i class="fa fa-globe fa-5x" aria-hidden="true"></i>
+                <h1>Criação de Sites</h1>
+                    <p> A publicidade mudou muito nos últimos anos, se antes ter sua presença on-line era um diferencial, atualmente isto é imprescindível para a divulgação de produtos e serviços.</p>    
+                
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-cog fa-5x" aria-hidden="true"></i>
+                <h1>Otimização de Sites</h1>
+                <p>A <em>Otimização de sites para os mecanismos de Busca</em> ou <em>SEO</em> consiste numa serie de estratégias para otimização de sua página para a internet e é muito importante para que seu produto ou serviço seja encontrado pelos mecanismos de busca e para que você possa obter os melhores resultados com sua página. </p>
+            </div>
+            <div class="col-md-4">
+                <h1></h1>
+            </div>
+        </div>
+            
+        <hr />         
+         
+        <div class="row rodape">
+            <div class="col-md-6">
+                <footer id="rodape">        
+                    <p><address>Contato: 11 982264243 e-mail: <a href="sergio.marangoni@gmail.com" target="_blank">sergio.marangoni@gmail.com</a></address></p>
+                </div>
+            
+           <div class="col-md-6">      
+                    <a href="www.linkedin.com/in/sergiosmarangoni"><i class="fa fa-linkedin fa-2x"></i></a>
+                    <a href="https://twitter.com/sergiomarangoni"><i class="fa fa-twitter fa-2x"></i></a>
+                    <a href="https://github.com/sergiomarangoni"><i class="fa fa-github fa-2x"></i></a>
+                    
+           	<div class="col-md-12">
+                    <p>2016 &copy Todos os direitos resevados.</p>    
+           </div>
+                        
+                </footer>
+            </div>
+            
+            </div>
+        </div>
+        
+    </body>
+
+</html>
