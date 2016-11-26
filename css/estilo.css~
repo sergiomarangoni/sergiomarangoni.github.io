@@ -1,5 +1,5 @@
 body{
-    background-image: url(../_imagens/cup-of-coffee-1280537_1280.jpg);
+    background-image: url(../img/foto.jpg);
     background-size: cover;
 }
 #cabecalho{
